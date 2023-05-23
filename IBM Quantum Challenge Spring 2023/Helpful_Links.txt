@@ -1,0 +1,31 @@
+https://quantum-computing.ibm.com/lab/docs/iql/tutorials-overview
+https://qiskit.org/documentation/stubs/qiskit.circuit.QuantumCircuit.measure.html
+https://discuss.codechef.com/t/solving-clbit-the-hard-way/72157
+https://learn.qiskit.org/course/quantum-hardware/introduction-to-quantum-error-correction-via-the-repetition-code
+https://qiskit.org/documentation/apidoc/circuit_library.html#standard-gates
+https://qiskit.org/documentation/stubs/qiskit.circuit.library.RZXGate.html
+https://qiskit.org/documentation/stubs/qiskit.circuit.QuantumCircuit.reset.html
+https://github.com/qiskit-community/ibm-quantum-challenge-spring-2023
+https://github.com/QuCAI-Lab/ibm2022-quantum-spring-challenge
+quantum ai and ml nad rl algorithms and research labs
+https://quantumcomputinguk.org/tutorials/quantum-error-correction-bit-flip-code-in-qiskit
+classical vs quantum error correction
+quantum decoder qiskit
+http://theory.caltech.edu/~preskill/ph219/chap10_6A.pdf
+https://qiskit.org/ecosystem/machine-learning/tutorials/12_quantum_autoencoder.html
+https://qiskit.org/documentation/tutorials/textbook/01_IQPE.html
+https://quantum-computing.ibm.com/lab/docs/iql/manage/systems/dynamic-circuits/Iterative-Phase-Estimation
+https://quantumcomputing.stackexchange.com/questions/2242/composing-multiple-quantum-circuits-in-single-quantum-program-in-qiskit
+https://quantum-computing.ibm.com/lab/docs/iql/manage/systems/dynamic-circuits/Teleportation
+https://qiskit.org/documentation/stubs/qiskit.circuit.QuantumCircuit.rx.html
+https://medium.com/geekculture/rotating-the-qubit-8359fdf50037
+https://qiskit.org/documentation/stubs/qiskit.circuit.QuantumCircuit.prepare_state.html
+https://quantum-computing.ibm.com/lab/docs/iql/manage/systems/dynamic-circuits/Introduction-To-Dynamic-Circuits
+https://learn.qiskit.org/course/quantum-hardware/introduction-to-quantum-error-correction-via-the-repetition-code#introduction-3-0
+
+
+https://qiskit.org/learn/
+https://qiskit.org/documentation/tutorials.html
+https://quantum-computing.ibm.com/
+IBM Quantum Lab Files
+https://ibmquantumawards.bemyapp.com/#/event
