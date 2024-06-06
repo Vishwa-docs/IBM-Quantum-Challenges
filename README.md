@@ -8,3 +8,6 @@ Repository for my Solutions of IBM Quantum Challenges and General Quantum Comput
 ### Links to past challenges (I will be solving them and posting tutorials on my blog later)
 - https://github.com/search?q=IBM+Quantum+Challenge&type=repositories
 - https://github.com/qiskit-community
+
+### Challenge - Summer 2024
+Ran from June 5th to 15th 2024
